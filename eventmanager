@@ -1,0 +1,14 @@
+- check for event notifications every 2 mins
+- if event notification found, message to you
+	- time/date/duration
+	- event hosts
+	- who invited you
+	- location
+	- number of people going + invited
+- interactivity : enter event id followed by a query:
+	- respond attending, no, maybe
+	- request people attending
+	- request people invited
+	- request last 5 posts
+	- request notification on new post in event	
+- signup on a website: just facebook login that should be it
